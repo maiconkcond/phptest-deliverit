@@ -1,4 +1,4 @@
-# Teste PHP DeliveryIT
+# Teste PHP DeliverIT
 Para executar o projeto basta seguir os passos:
 - Clone o repositório
 - Baixe o composer e instale as dependências
