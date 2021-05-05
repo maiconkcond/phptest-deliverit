@@ -4,6 +4,7 @@ Para executar o projeto basta seguir os passos:
 - Baixe o composer e instale as dependências
 - Configure o banco de dados local em .env (Não foi possível subir via docker)
 - Execute as migrations `php artisan migrate`
+- Rodar o Seeder de Tipos de Corridas `php artisan db:seed --class=TypeOfRacesTableSeeder`
 - Rode a aplicação `php artisan serve`
 
 
